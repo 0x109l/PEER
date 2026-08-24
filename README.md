@@ -79,9 +79,7 @@ and exposes it to the player through a HTTP server.
 - Previously downloaded pieces can be verified and reused when a source is
   reopened.
 
-** Direct torrent playback joins a BitTorrent swarm and may expose the user's
-public IP address to peers. PEER displays a privacy warning and
-does not claim to verify VPN routing or split-tunnel behavior as PEER does not come with a built-in VPN. **
+## Direct torrent playback joins a BitTorrent swarm and may expose the user's public IP address to peers. PEER displays a privacy warning and does not claim to verify VPN routing or split-tunnel behavior as PEER does not come with a built-in VPN.
 
 ## Library, Profiles, and Integrations
 
