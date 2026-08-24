@@ -130,3 +130,17 @@ analytics. PEER does not send any user analytics anywhere.
 - Bounded torrent metadata and readiness checks instead of endless loading.
 - In-app update checking and update prompts on supported builds, auto updating included but never forced.
 - PEER can still operate through add-ons even if the backend ever dies.
+
+## PEER brief summary
+
+> Cross-platform media discovery and playback client for Android, Android TV,
+> Windows, Linux, macOS, and Web. Featuring movies, TV, anime, manga, sports,
+> IPTV, profiles, local libraries, subtitles, add-ons, debrid integrations,
+> content blocking, and optional native torrent streaming.
+
+## For github
+
+`flutter` · `dart` · `rust` · `android` · `android-tv` · `windows` · `linux` ·
+`macos` · `web` · `media-player` · `iptv` · `m3u` · `torrent-streaming` ·
+`real-debrid` · `premiumize` · `movie` · `subtitles` . `free` . `stremio`
+
