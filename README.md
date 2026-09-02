@@ -144,3 +144,4 @@ analytics. PEER does not send any user analytics anywhere.
 `macos` · `web` · `media-player` · `iptv` · `m3u` · `torrent-streaming` ·
 `real-debrid` · `premiumize` · `movie` · `subtitles` . `free` . `stremio`
 
+[Official Discord Server](https://discord.gg/38ygsEvfzQ)
